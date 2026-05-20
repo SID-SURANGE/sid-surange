@@ -1,6 +1,6 @@
 # Hi, I'm Siddharth 👋 
 
-Welcome to my GitHub profile! I'm a **AI Engineer** passionate about exploring cutting-edge AI technologies and contributing to the AI community. I specialize in **Generative AI**, **Natural Language Processing (NLP)**, and **Computer Vision**, with a keen interest in building impactful solutions.
+Welcome to my GitHub profile! I'm an **AI Engineer** passionate about exploring cutting-edge AI technologies and contributing to the AI community. I specialize in **Generative AI**, **Natural Language Processing (NLP)**, and **Computer Vision**, with a keen interest in building impactful solutions.
 
 ---
 
