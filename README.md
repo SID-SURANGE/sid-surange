@@ -30,12 +30,12 @@ Building production-grade AI systems — from RAG pipelines and agentic workflow
 
 <table>
   <tr>
-    <td width="50%" align="center" style="padding: 20px;">
+    <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/briefcast">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=briefcast&theme=dark" alt="Briefcast">
       </a>
     </td>
-    <td width="50%" style="padding: 20px;">
+    <td width="75%" style="padding: 20px;">
       <h3>Briefcast</h3>
       <p>Automated AI research briefing agent — monitors Google AI, DeepMind, OpenAI, Anthropic, arXiv and more, then delivers a curated daily digest to Telegram with follow-up Q&A over a 14-day rolling knowledge base.</p>
       <p><strong>Stack:</strong> FastAPI · PostgreSQL + pgvector · LangChain LCEL · OpenRouter (Gemini, Claude) · APScheduler · Railway</p>
@@ -43,12 +43,12 @@ Building production-grade AI systems — from RAG pipelines and agentic workflow
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 20px;">
+    <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/ResumeParser">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=dark" alt="Resume Parser">
       </a>
     </td>
-    <td width="50%" style="padding: 20px;">
+    <td width="75%" style="padding: 20px;">
       <h3>ResumeParser</h3>
       <p>HR-focused resume analysis tool that runs entirely on local LLMs — no API keys required. Extracts structured data from PDFs, flags missing sections, generates tailored interview questions, and visualizes resume content.</p>
       <p><strong>Stack:</strong> FastAPI · Gradio · PyTorch · IBM Docling · LM Studio (quantized Llama 3.1/3.2, IBM Granite)</p>
@@ -56,12 +56,12 @@ Building production-grade AI systems — from RAG pipelines and agentic workflow
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 20px;">
+    <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/AI-Sandbox">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=dark" alt="AI Sandbox">
       </a>
     </td>
-    <td width="50%" style="padding: 20px;">
+    <td width="75%" style="padding: 20px;">
       <h3>PageSense · AgentForge · AI-Sandbox</h3>
       <p>Monorepo of production-grade experiments. <strong>PageSense</strong>: Chrome extension + FastAPI/Qdrant backend for semantic search over your browsing history. <strong>AgentForge</strong>: deployed agentic app with web search and image generation.</p>
       <p><strong>Stack:</strong> FastAPI · Qdrant · Gradio · smolagents · LlamaIndex · JavaScript (extension)</p>
@@ -85,13 +85,6 @@ Building production-grade AI systems — from RAG pipelines and agentic workflow
 
 - Oracle Certified Generative AI Professional
 - Google Cloud Professional Data Engineer
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SID-SURANGE&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SID-SURANGE&layout=compact&theme=radical)
 
 ---
 
